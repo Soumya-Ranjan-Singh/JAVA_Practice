@@ -9,7 +9,7 @@ public class DisplayUnit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.print("Enter a single digit number: "+"\n");
+		System.out.print("Enter a number: "+"\n");
 		int a;
 		try (Scanner scan = new Scanner(System.in)) 
 		{
