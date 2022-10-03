@@ -1,4 +1,4 @@
-//This program is about to check weather the year is a leap year or not
+//This program is about to check weather the year is a leap year or not.
 
 package day1Problems;
 
